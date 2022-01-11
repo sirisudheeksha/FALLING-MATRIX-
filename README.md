@@ -1,1 +1,8 @@
-# FALLING-MATRIX-
+# FALLING-MATRIX
+
+
+
+requirements:
+
+
+- pip install pygame
